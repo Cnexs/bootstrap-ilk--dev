@@ -1,0 +1,42 @@
+.container{
+
+background-color: rgba(202, 191, 191, 0.767);
+
+}
+
+body{
+
+    background-color: #69cdf5;
+}
+
+.button {
+padding: 10px 20px;
+font-size: medium;
+background-color: #002efc;
+border-radius: 25px;
+color: white;
+text-decoration: none;
+border: none;
+cursor: pointer;
+display: inline-block;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nav-link {
+background-color: #002efc;
+border-radius: 25px;
+color: white;
+
+}
+
+
+.h5 {
+    
+    
+    
+
+}
+mark {
+    border-radius: 25px;
+
+}
