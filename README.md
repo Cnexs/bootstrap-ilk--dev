@@ -1,2 +1,2 @@
-# bootstrap-ilk--dev
+# bootstrap ilk ödev
 bu repo bootstrap ilk ödev için
